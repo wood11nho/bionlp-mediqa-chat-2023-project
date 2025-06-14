@@ -1,0 +1,201 @@
+TestID,SystemOutput1,SystemOutput2
+0,PASTMEDICALHX,"The patient is a 55-year-old African American male. He has a birthday. The patient is not bringing his chart with him right now, but the nurse is bringing it."
+1,FAM/SOCHX,Stroke.
+2,PASTMEDICALHX,No muscle pain. No joint pain. No stiffness or weakness. No back pain.
+3,FAM/SOCHX,Noncontributory.
+4,FAM/SOCHX,Father died of thoracic aortic aneurysm. Mom died of stroke.
+5,FAM/SOCHX,No changes to medical history or social history since last visit.
+6,FAM/SOCHX,The patient is 77 years old. She was sedated with Ativan. She was not doing so well upon arrival and appeared short of breath. She couldn't give us a history and we immediately had Xray come in to scan her lungs. The report showed what we believe to be free air under her right diaphragm.
+7,FAM/SOCHX,The patient has two half brothers that are in good health. The patient has a great grandfather who had bone cancer. He was in his 80s. The patient has two cousins on his mom's side of the family who are diabetic. The patient has two half brothers that are in good health. The patient has two half brothers that are in good health.
+8,FAM/SOCHX,The patient is retired. He worked for 20 years in social security administration.
+9,ALLERGY,None.
+10,FAM/SOCHX,"The patient is a 79-year-old African American woman. She is 5'3"" tall. She is 187 pounds. She has type 2 diabetes since 1993. She does not have any allergies."
+11,FAM/SOCHX,The patient has been complaining of uneasiness in his stomach for a few days. He has no history of liver problems or gallbladder stones. He had his physical and blood tests and everything came out normal. He has no fever or chills. He has no history of ulcers.
+12,FAM/SOCHX,"The patient lives alone. She relies on her family and friends to keep her company. She does not smoke, but does not use tobacco products."
+13,FAM/SOCHX,The patient has been taking meds for his blood pressure.
+14,FAM/SOCHX,The patient is a healthy male. She does not smoke. She does not drink excessively. She does not take Tylenol for pain.
+15,FAM/SOCHX,No headaches or breathlessness. No skin problems. No chest pain.
+16,FAM/SOCHX,The patient has not noticed any changes in his or her skin. He has not noticed any changes in his or her fingers or toes.
+17,FAM/SOCHX,No prior surgeries.
+18,FAM/SOCHX,"Fatigue can be due to many underlying conditions. Hypertension, high cholesterol, osteoarthritis."
+19,FAM/SOCHX,"The patient is a 59-year-old white male who has had a rash for the last two months on her chest, stomach, neck, and back. She has had a small folliculitis lesions that are pus filled bumps centered on her hair. She has stopped her medication for the last three days. She has noticed her face started to get better. She has started going to Healing Waters to get photofacials. She has been doing fine"
+20,FAM/SOCHX,"The patient is stuck in the hospital. She has been swollen on her legs for a long time. She can't feel her toes. She can't walk because of her weight. She is short of breath. She has C OPD. She can't do much but sit here. She is in a lot of pain all the time. She does not experience any chest pain or visual problems. She does take OxyContin for her back pain. She does not experience any constipation, diarrhea, abdominal pain, nausea or vomiting"
+21,FAM/SOCHX,Chest pain for the last few nights.
+22,FAM/SOCHX,"He has been happily married for 45 years. He lives in a small house by the bay two miles away from his office. He has always dreamed of living in a house with a waterfront and when he retired, he moved here with his wife. It's nice and peaceful."
+23,FAM/SOCHX,The patient has a history of sinusitis and a stroke two years ago. She does not smoke or drink. She does not have any known allergies.
+24,FAM/SOCHX,Low salt diet.
+25,FAM/SOCHX,Grandma had arthritis as a child. She had no history of psoriasis.
+26,FAM/SOCHX,"The patient is a 68-year-old male with a history of ischemic cardiac disease. He was seen by XYZ in February 2004 and he made him walk on a treadmill for eight minutes. The scan showed some wall scarring but also that the amount of blood leaving his heart per contraction was normal. He does not have any chest pain, palpitations, difficulty sleeping at night, leg or arm swelling, or shortness of breath while lying flat."
+27,FAM/SOCHX,"Nausea, vomiting, diarrhea, or fever."
+28,PASTMEDICALHX,The patient has been discharged.
+29,PASTMEDICALHX,Metastatic prostate cancer.
+30,FAM/SOCHX,Dad has arthritis in both of his hips.
+31,GENHX,"The patient presents with a right leg weakness for quite some time. The patient states that the weakness started about six months ago. The patient states that she is unable to stand on her right toe. Since then she has had difficulty pushing off when walking. Her toes are tingling and numb. The patient states that she has not had any weakness in the left leg for the past year, but it stopped about two months ago. The patient states that she has not had any weakness in the right leg. The patient has not had any bowel or bladder in"
+32,PASTMEDICALHX,"This is a relatively small amount and is likely to be a nontoxic ingestion of the liquid, if she did end up ingesting it. It is not likely to be the case as she is behaving as if she did not ingest any of the liquid."
+33,FAM/SOCHX,Nonsmoker. Nonsmoker. Nonsmoker. Nonsmoker. Nonsmoker. Nonsmoker. Nonsmoker. Nonsmoker. Nonsmoker. Nonsmoker. Nonsmoker. Nonsmoker. Nonsmoker. Nonsmoker. Nonsmoker. Nonsmoker. Nonsmoker. Non
+34,FAM/SOCHX,He has hepatitis C. He also has HIV.
+35,ALLERGY,Bactrim.
+36,FAM/SOCHX,The patient is a 56-year-old female who is in the office. Her foot twisted and she was in so much pain right away.
+37,FAM/SOCHX,"The patient is a 15-year-old male who is addicted to oxycodone, narcotics, and alcohol."
+38,GENHX,"This is a 36-year-old white male who has had three Synvisc injections. The last one was about five days ago, right before her birthday. The patient has had a 35-45 percent improvement. The pain is so bad when she tries to put her full weight onto her knee. The patient has not been able to bend her knee at all. She has not been able to bend her knee at all. She has not been able to bend her knee. She has not been able to bend her knee at all."
+39,FAM/SOCHX,"Non-smoker, non-drinker, and non-drug user. No previous surgeries or medical conditions."
+40,FAM/SOCHX,Recent intestine infction resolved. C diff colitis.
+41,FAM/SOCHX,The patient has a fever and congestion.
+42,FAM/SOCHX,"The patient is a 68-year-old female with a bad cough and some green, grey things are coming out. She does not feel short of breath. She does not have any fever. She does not have any chills. She has been having this for three days and with this sputum she got scared."
+43,PASTMEDICALHX,No intra-abdominal pathology.
+44,PASTMEDICALHX,"Obese, hypertension, fractured right knee, history of blood clots."
+45,PASTMEDICALHX,The patient was placed on nasogastric tube for decompression.
+46,FAM/SOCHX,"The patient has been suffering from congestion for a few years now. She has seen an ENT a year or so ago. They think it could be due to enlarged adenoids or just her anatomy. If it's causing discomfort, then she recommends scheduling a follow-up visit. She also has an ingrown nail. It seems to be improving on its own."
+47,FAM/SOCHX,"Two-month-old has been congested for a whole week. She has been running a fever for the past two days. She has not been experiencing any other symptoms, such as difficulty breathing or wheezing. She is taking down milk. She has been changing her diapers three or four times."
+48,FAM/SOCHX,The patient has never smoked.
+49,FAM/SOCHX,"The patient is a white male who was seen by Dr. XYZ for low back pain, lumbar scoliosis post laminectomy syndrome, lumbar spinal stenosis, and symptomatic right L2 radiculopathy. He was having right leg pain when he saw him. He had spinal stenosis, so he had a laminectomy. He had some injections into his lower back. He had some imaging on this hip. The x rays today show marked"
+50,FAM/SOCHX,"The patient has a history of scapholunate problems and other problems. The patient was lifting something out of the trunk of his car, and it started hurting. The pain was sore and stuff, but the pain wasn't bothering him too much. The pain after the incident got worse. The pain after the incident got worse. The pain after the incident got worse. The pain after the incident got worse. The pain now more near the pinky area than the thumb area. The patient has chronic scapholunate problems and other problems"
+51,PASTMEDICALHX,No current medications.
+52,ALLERGY,None.
+53,FAM/SOCHX,The patient is retired. She is very active. She walks around four miles a day.
+54,FAM/SOCHX,"The patient has not been experiencing any dizziness, excessive urination, fatigue, weight loss, or any other symptoms. She has a copy of her blood work right here and it looks like her cholesterol is still pretty high. She needs to continue taking the cholesterol medication I prescribed and monitoring her cholesterol intake. She will schedule another follow up appointment and get her in in a few weeks after another blood draw."
+55,FAM/SOCHX,The patient has been having some stomach problems. She has been having diarrhea. She began having diarrhea several weeks ago. She has diarrhea five to six times a day.
+56,FAM/SOCHX,No partial loss of vision or blind spot.
+57,FAM/SOCHX,"This is a ten-minute disorientation. She was driving the other day and suddenly, she didn't know where she was or where she was driving to. She has had this disorientation twice before, but she was not driving."
+58,FAM/SOCHX,"Overactive bladder, abdominal pain, excessive thirst or eating. No constipation, diarrhea, or heartburn. No chest pain or tightness, shortness of breath, headaches, or fever. No skin, muscles, or joints."
+59,FAM/SOCHX,Asthma at home.
+60,PASTMEDICALHX,"CBC, BMP, and cardiac enzymes were negative x1."
+61,MEDICATIONS,Amoxil and Aldex.
+62,FAM/SOCHX,The patient is a 17-year-old female with a 2 millimeter fishbone lodged in her throat. She was intubated and taken straight to the O R.
+63,FAM/SOCHX,"The patient has a history of high lipid levels, high blood pressure, and a possibility for a metabolic syndrome. She tried for many weeks to follow the meal plan that she was given. She felt like she was still gaining weight instead of losing it. She is spending more time in her garden and doing the yard work by herself. She is walking around one and a half to two miles every other day, but she is spending more time in her garden and doing the yard work by herself. She was able to get some pounds off. She felt pretty"
+64,FAM/SOCHX,Shortness of breath a lot more than usual. No leg pain or swelling. No chest pain or swelling.
+65,PASTMEDICALHX,"The patient has been given ifosphomide, mesna and VP16 chemotherapy."
+66,FAM/SOCHX,"The patient has been diagnosed with hypothyroidism and bowel abnormalities a few years ago. Her most recent bouts of diarrhea were likely due to C diff and they seem to have gotten better. She does not have any fever, chills, or night sweats. She does not have any unusual weight gain or loss. She does not have any visual changes, in one or both eyes. She does not have any visual changes, hearing changes or ear problems. She does not have any chest pain, cough, coughing excessive mucus or blood"
+67,FAM/SOCHX,"The patient is a 56-year-old right-handed man with a long standing on and off lower back pain on his right side after a motor vehicle accident in September 2005. Five days later, he started getting this abnormal like pain in the lower side of his back, especially on the right side. The pain moved from there to his buttocks on the posterior side on his thigh and on outside of his calf. The pain gets worse when he is sitting for a longer period, such as like driving"
+68,FAM/SOCHX,The patient is married. She is farming as a part time job. She does not drink or smoke.
+69,PASTMEDICALHX,He has never had surgery. He has had all of his children naturally.
+70,FAM/SOCHX,"Morphine, Darvocet, Flomax, Avodart and Ibuprofen."
+71,FAM/SOCHX,The patient was well developed and well nourished. He was not in acute distress.
+72,FAM/SOCHX,None.
+73,FAM/SOCHX,"The patient has a right chest pain on the upper right side of his chest. He has nausea and vomiting. He does not feel hungry. He does not have any fever, diarrhea headache or joint pain. He does not have any seizure or loss consciousness or stroke like symptoms."
+74,GENHX,"The patient is a 68-year-old female who has had knee pain for about 13 years. She has had a knee replacement at another facility, but she wants to have another surgery. She has so much pain, and she feels snapping, she's also having trouble walking. She feels like her knee is giving away. She has had some malalignment of the hardware from her previous surgery."
+75,FAM/SOCHX,"The patient is a 32-year-old female who was last seen by Dr. X. She has been doing well since her last visit. She has had no heart disease, or failure. She has had no falls since her last visit. She has been doing very well. She has been taking Tylenol occasionally as needed for the pain. She does not have any memory issues. She has not had any falls since her last visit. She has not had any falls since her last visit."
+76,FAM/SOCHX,Normal male breast tissue.
+77,FAM/SOCHX,The patient has just started a protein rich diet. She is taking whey protein and has added a lot of greens as well.
+78,FAM/SOCHX,"The patient has a history of frequent UTI's. She has been drinking a lot more water and taking preventative measures to reduce her chances of getting another one anytime soon. She has been bed bound. She has not had any other symptoms, such as fever or chills. She has been drinking a lot more water and taking preventative measures to reduce her chances of getting another one anytime soon. She has been drinking a lot more water and taking preventative measures to reduce her chances of getting another UTI's."
+79,FAM/SOCHX,Prostate cancer.
+80,PASTMEDICALHX,The patient has a palm protector in her right hand.
+81,FAM/SOCHX,The patient is unemployed. She is a software developer. She does not drink or do drugs. She does smoke cigarettes. She smokes less than a pack a day. She lives at home with her wife.
+82,FAM/SOCHX,Diabetes.
+83,FAM/SOCHX,The patient has been vaccinated. The patient has mild soreness in her left arm.
+84,FAM/SOCHX,This is the patient's first wasp sting.
+85,PASTSURGICAL,None.
+86,FAM/SOCHX,No history of psychiatric disorders.
+87,FAM/SOCHX,The patient is a family member. The patient is a mother and sister.
+88,FAM/SOCHX,He has not had any gi issues. He has not had any heart issues or genital or urinary tract issues. He has not had any symptoms other than what we discussed earlier.
+89,FAM/SOCHX,The patient is on disability. He does not drink or smoke. He is married. He lives with his girlfriend. He does not smoke. He does not drink or smoke.
+90,PASTMEDICALHX,"The patient is a 9-year-old male who skates in a neighborhood or skatepark. She has never been skateboarding, but has always been in awe of kids who know how to do cool skateboard tricks."
+91,FAM/SOCHX,"The patient is a 75-year-old female who has been feeling weak and shaky for a while. She has not had any chest pain or palpitations. She does not have any cough, bloody sputum or wheezing sensation. She does not have any fainting spells or feeling like she is going to pass out."
+92,FAM/SOCHX,Headaches.
+93,FAM/SOCHX,"Chest pain, shortness of breath, prolonged bleeding, etc."
+94,PASTSURGICAL,Right intertrochanteric femur repair.
+95,GENHX,"The patient is a 85-year-old male who has a weird muscle pain in his rightbuttocks region that radiates from his lower back or spine area. The patient was last seen in renal clinic about four months ago. The patient is doing much better than before in terms of managing his high blood pressure with the current medication. No nausea, vomiting or diarrhea. No shortness of breath, chest pain or difficulty breathing. No shortness of breath, chest pain or difficulty breathing. No shortness of breath, chest pain or chest pain."
+96,ALLERGY,None.
+97,FAM/SOCHX,The patient is a 62-year-old woman who has a history of back pain. She has been drinking a little alcohol at the party. She only drinks when she goes to special occasions.
+98,FAM/SOCHX,"No family history of heart disease, diabetes or hypertension."
+99,FAM/SOCHX,No symptoms.
+100,FAM/SOCHX,This is a 2-month-old who has had a lot of congestion and coughed more than ever before. She has had some irregular breathing where she would breathe very quickly and retract. She has been running in the hundreds between one O two and one O four. She has been feeding less and hasn't had as many wet diapers as a result. Her son has an upper respiratory infection.
+101,MEDICATIONS,Multivitamins and calcium.
+102,FAM/SOCHX,The patient has a boil on his butt.
+103,FAM/SOCHX,"She has a fear of feeling of pressure in the backside of her head approximately once a week. She is taking Aleve and it is kind of helping her. She works from 4 to midnight, and then after getting home, she falls asleep when she's sitting in front of her desk or in front of her television. She has noticed that she falls asleep when she's sitting in front of her desk or in front of her television. She has noticed that she falls asleep in non stimulating environments."
+104,PASTSURGICAL,Tummy surgery.
+105,FAM/SOCHX,"The patient is a long-time patient. He is here for a physical. Nothing new and nothing has changed, but he thinks it's good to be seen once a year. His social history and medical conditions are the same as last visit."
+106,ALLERGY,No known drug allergies.
+107,GENHX,The patient is a 56-year-old white man.
+108,FAM/SOCHX,"She has been bringing up green snot and complaining of ear pain. She has been bringing up green snot and complaining of sinusitis for about six or so days. After checking both ears, she noticed fluid buildup in the right middle ear. I'll go ahead and prescribe her some antibiotics and hopefully she'll be as good as new in a few days. I'd like her to come back for a follow up to make sure all the fluid in her ear is gone."
+109,ALLERGY,None.
+110,GENHX,The baby girl is 2 1/2 years old. She has a history of seizures. She used to have shakes and lose consciousness. She was placed on Keppra solution one hundred and fifty Mg for two times a day. It helped a lot and she was doing fine. Her seizures were improving a lot but recently we have noticed something similar again. We tried to shake her but during that period she just does not respond. We tried to shake her but during that period she just stops doing everything and stare blank.
+111,FAM/SOCHX,The patient's grandfather was an alcoholic.
+112,FAM/SOCHX,Anxiety medication and estrogen.
+113,ALLERGY,Allergy to Sulfa drugs.
+114,FAM/SOCHX,No family history of heart disease.
+115,FAM/SOCHX,The patient is due for a checkup. The patient is also trying to figure out why she is having so much joint pain all over.
+116,FAM/SOCHX,No over the counter medications for headaches.
+117,FAM/SOCHX,First pregnancy.
+118,FAM/SOCHX,Nonsmoker.
+119,FAM/SOCHX,"She lives with her boyfriend and three children. She does not touch tobacco or any other drugs. She does occasionally drink, but only on rare occasions."
+120,FAM/SOCHX,The patient has a right or left hand that has been on and off for several weeks. She has had episodes of numbness and pins and needles. She has moved her keyboard down at work. She was worried if she had carpal tunnel. She has a typical office job. She sits in front of the computer for eight hours and mostly work on a keyboard. She hardly takes two coffee breaks in between and a lunch break. She has a typical day
+121,FAM/SOCHX,She stopped taking Prevacid.
+122,PASTMEDICALHX,No leukocytes. No infection. No leukocytes. No leukocytes. No leukocytes. No leukocytes. No leukocytes. No leukocytes. No leukocytes. No leukocytes. No leukocytes. No leukocytes. No leukocytes. No leukocytes. No leukocytes. No leukocytes. No leukocytes. No blood. No stool.
+123,FAM/SOCHX,None.
+124,PASTMEDICALHX,"In stable condition, but not yet able to obtain a history."
+125,FAM/SOCHX,"Serotonin syndrome. White count and CPK were high, and those abnormalities lined up with serotonin syndrome. She has been very restless and easily agitated, diarrhea, but no fever or shakiness. She denies any fever, tremor or hypperflexia. She denies any fever, tremor or hypperflexia. She denies any fever, tremor or hypperflexia. She denies any"
+126,FAM/SOCHX,The patient is a 46-year-old female who has a history of epilepsy and has had non-epileptic issues in the past. She is concerned that she is having small seizures again. She has been waking up in the mornings with strange body aches and feeling confused. She lives alone now so she doesn't know if she had a seizure or not. She also has weakness when she wakes up. She works alone in her office most of the day so no one is around to notice what might be happening
+127,PASTMEDICALHX,The patient has been placed in a nasogastric tube for decompression.
+128,GENHX,"The patient has a history of prostate cancer which has metastasized to the bladder and in several locations throughout her body including the spine and shoulder. She has seen a lot of blood in her urine from yesterday, and today she saw a lot of blood with very little urine. She has no change in her chronic lower back pain, and no change in incontinence, urinary or stool. She has no fever, belly pain, nausea or vomiting. She has completed chemo and radiation therapy, but it is not supposed to treat or cure the cancer, but just"
+129,FAM/SOCHX,The patient has been having some problems on his right side under his ribs. He has a history of hives. He has had dialysis for two years. He also has high blood pressure.
+130,FAM/SOCHX,Foreign body in left eye.
+131,FAM/SOCHX,The patient is having a febrile seizure.
+132,PASTMEDICALHX,"No history of tobacco, alcohol, or drug use."
+133,FAM/SOCHX,"The patient has a history of alcohol or drug abuse. She has had a drink on special occasions, but she does not drink. She has never done drugs. She does not smoke."
+134,FAM/SOCHX,Noncontributory.
+135,FAM/SOCHX,"The patient is a 26-year-old African American. The patient is an African American. The patient was a hilo worker at work, and he felt a pop in his left leg. The pop was in the back of the leg. The patient was put in a splint, and ABC orthopedics recommended that he follow up with ABC orthopedics."
+136,PASTMEDICALHX,"The son is having a lot of problems at school. He has been asking an unusual number of questions, and he's been obsessed with cleaning and cleanliness. He has been confused and depressed lately. He will be in a social skills program this summer. He has been referred to two psychologists for functional behavioral analysis."
+137,FAM/SOCHX,The patient is the only person in her family who has heart disease.
+138,FAM/SOCHX,No meds.
+139,FAM/SOCHX,"The patient is a little over one years old, and we identify as black. She is a new patient at the ABC Practice in Tanzania. She has a history of atopic eczema. She has been putting an Elidel cream twice a day for six months now. She has been putting this oil on her now. She is well-developed and has good health."
+140,ALLERGY,None.
+141,FAM/SOCHX,"He was working with a patient when he accidentally jammed a needle inside him. He had negative HIV but positive hep C. He is a carrier only, never will show disease symptoms. He had three shots of hepatitis B and Tetanus is up to date with all others. Antibodies are showing, which is good. He had hepatitis B and Tetanus up to date with all others. His liver function test was normal at 18 and hepatitis C and H I V"
+142,FAM/SOCHX,Very weak and shaky.
+143,FAM/SOCHX,The patient has a family history of cancer.
+144,FAM/SOCHX,Noncontributory.
+145,FAM/SOCHX,Both mother and sister have diabetes.
+146,GENHX,"The patient is a 5-and-a-half-year-old male who broke both the bones in his forearm in September 2007 and rebroke it about a month ago. There is an ulnar nail prominently visible under the skin. He has had surgery for this about a month ago. He will have to remove the nail. After that, he will be put back in a cast for about another three weeks. He will evaluate him and see how he is doing."
+147,FAM/SOCHX,"Aspirin, blood pressure, and diabetes medicine."
+148,FAM/SOCHX,Foreskin.
+149,FAM/SOCHX,"Her mother died of a stroke in her late 50s. Her father had some heart issues. He also had high blood pressure. She was a heavy smoker before many years ago, but then quit in 1994. She used to smoke two to three packs per day."
+150,FAM/SOCHX,The baby is a 18-month-old Swedish American. He has had a fever for five days. He finished Amoxil several days ago for sinus infection. He also takes Zyrtec for allergies. The fever is constant throughout the day or fluctuates at night. The fever was one o 2 point 6 for two days. He has not checked it since then. He is fussy and drooling so much. He does not have any diarrhea or vomiting. He does not have any snots that are coming out of his
+151,FAM/SOCHX,The patient had a discectomy in the back seven or eight years ago.
+152,FAM/SOCHX,FCR tendinitis.
+153,FAM/SOCHX,Dad had diabetes.
+154,FAM/SOCHX,"The patient has been stabbed, shot, and injured multiple times. She has chronic pain and is in pain all the time. She has been stabbed, shot, and injured multiple times. She has been treated for heroin use several years ago. She has been trying to cope with the pain and keeps going back. When the pain hits her hard the cravings start."
+155,FAM/SOCHX,The patient is a white 47-year-old female who is concerned about a spider bite on the back left side of her shoulder. She has noticed a bump near her shoulder two days ago. It is tender and red. It is getting bigger. She wants to know what the red streaks going up her neck are. She has not had a fever.
+156,PASTSURGICAL,"No history of gallbladder or appendix removal, or joint replacement."
+157,FAM/SOCHX,"She lives with her family. She lives with her mom, dad and two little sisters. She is a happy family. Every Friday it is a game night and often goes on a hike on weekends. She has not been in contact with anyone who is sick."
+158,PASTMEDICALHX,No bone abnormalities or degenerative changes.
+159,PASTMEDICALHX,The patient is a 51-year-old male with degenerative joint disease of the big toe. The patient has been diagnosed with degenerative joint disease of the M P J of the big toe.
+160,PASTMEDICALHX,Parkinson disease.
+161,PASTMEDICALHX,Recurrent tonsillectomy.
+162,FAM/SOCHX,The patient is a 57-year-old woman who has a number of wrinkles on her face. She does not smoke. She has never had a skin disease.
+163,FAM/SOCHX,"The patient is a 38-year-old male who presents for the first time. The patient has been complaining of pain in his right hip for about two years. The pain started in the left hip recently. The pain has been worsening since then. The pain is here in the front, like in the groin, and then on the side. Walking is painful for him now. He hears this popping and clicking now too."
+164,FAM/SOCHX,"The patient is a 23-year-old woman with a herniated disc at T8 T9, which is the cause of her rib pain. She has taken antiinflammatories and rested. She has not had any surgery."
+165,PASTMEDICALHX,"High blood pressure, diabetes, depression, arthritis."
+166,FAM/SOCHX,"A 58-year-old female who was allegedly in her normal state until four o'clock P.M. on January 8, 1993 when she suddenly became blind. She complained of tongue numbness and slurred speech in conjunction with vision loss. She explained that her vision improved slightly on her way to the local E R. She noticed severe blurring right before arrival, but the vision problems worsened shortly after arrival. While being evaluated, she became unresponsive. She wasn't responding to deep noxious stimuli."
+167,FAM/SOCHX,The patient has a second cousin who had depression. He later had a nervous breakdown.
+168,FAM/SOCHX,"E. coli has improved since last visit, but she had some complications with the medicine. She was taking the Macrobid once a day at night for about seven days. She had a skin rash and hives, so she discontinued the medicine. She had no pain with urination or blood in her urine. She had no fever or chills. She had no pain with urination or blood in her urine. She had no problems with fever or chills."
+169,PASTMEDICALHX,"Tylenol, water pill, blood thinner, multivitamins, folic acid, Norvasc, Lanoxin, Diovan, Atenolol."
+170,GENHX,"The patient is a 37-year-old, left-handed male who visited us a month ago for headaches, nausea, and vomiting. His exams from that time showed no evidence of bowel obstruction and he was discharged home. He has had the same symptoms on and off since that time. His headaches are dull, constant, and it feels like as if his head is wrapped in a tight band. He denies any blind spots, positive visual phenomena, weakness, numbness, tingling or double vision or any speech disorder. He"
+171,FAM/SOCHX,"The patient is a married woman who lives in a single level home. She is in good health. She does not smoke. She does not drink alcohol. She does occasionally drink wine with dinner. She does exercise daily and for an hour or an hour and a half. She has not been able to do this since about June of 2008, because of back pain. She works full time as a project manager."
+172,FAM/SOCHX,She has been to more than six countries.
+173,FAM/SOCHX,"No chest pain, but shortness of breath after exertion. No excessive or unstoppable bleeding."
+174,FAM/SOCHX,Mother died of cancer. Sister died of Alzheimer. Father died of mesothelioma.
+175,ALLERGY,Cephalexin.
+176,FAM/SOCHX,She does not smoke cigarettes. She does not drink alcohol.
+177,GENHX,"The patient is a 55-year-old female who has had a stroke. She has the urge to use the bathroom all the time. She has had VESIcare, but it hasn't improved yet. She is taking Enablex right now. She has not had any improvement with that. She has had several pairs of Depends a day. She has not had any fever or chills. She has not had any improvement with that. She has had a voiding diary. The nursing home hasn't done that either."
+178,PASTMEDICALHX,Asthma.
+179,GENHX,"The patient is a white male who was diagnosed with HIV in the past. He has a C D 4 count of 475 and a viral load of less than 50 in August 2007. He has had a recent abscess in his left glute. He has had a surgery to remove and clean out the abscess. He is currently in the hospital with diabetes. He is currently taking insulin. He is currently taking Glucophage and, um, glyburide."
+180,FAM/SOCHX,"No history of depression, high blood pressure, or anything like that."
+181,FAM/SOCHX,Family history of Huntington disease.
+182,ALLERGY,None.
+183,ALLERGY,No drug allergies.
+184,FAM/SOCHX,The patient is married for 10 years. She does not smoke or drink.
+185,FAM/SOCHX,The patient is a 84-year-old male who died of lung cancer and ischemic cardiac disease. His mother died of congestive heart failure in her 80s. She has six sisters and two brothers.
+186,FAM/SOCHX,"The patient is a 73-year-old male who was born in 1939 and is doing well other than the hypertension issue. He is currently on hydrochlorothiazide and potassium chloride. He is currently on 25 mg of hydrochlorothiazide once a day. He is also on potassium chloride once a day. He has no chest pain, shortness of breath, dizzy spells, ankle swelling, or trouble breathing when sleeping."
+187,FAM/SOCHX,The patient is a 66-year-old woman with a history of hypertension or tachycardia.
+188,FAM/SOCHX,"The patient has had a lot of variability in her glucose control and recent upper and lower respiratory illnesses. She did not see anyone, the symptoms just kind of improved on their own. The patient has had a lot of variability in her glucose control too largely, and she has had a lot of variability in her glucose control too largely. She has had a lot of variability in her glucose control too largely, and she has had a lot of variability in her glucose control too largely"
+189,PASTMEDICALHX,"Synthroid, Aspirin, Terazosin, Lisinopril, and Atenolol."
+190,FAM/SOCHX,"Eyes look fine, no lesion on lids, brows or corner of the eyes. Extra ocular movements are intact. No swelling or glaucoma. No cataracts. Ears normal set and shape with normal hearing and tympanic membrane. No cough or cold or sinus congestion."
+191,FAM/SOCHX,The patient is a 25-year-old male who stopped using all the drugs at 25 years of age. He had a relapse once. He has been clear for 10 years. He is still a heavy smoker. He has chronic bronchitis.
+192,FAM/SOCHX,"The patient has been in good spirits since her last visit. She has had some constipation issues lately. She has not gained any weight since her last visit. She is sure it is due to her high energy level, but it is something we need to keep a close eye on."
+193,FAM/SOCHX,The patient is married. He lives with his wife. He does not smoke.
+194,FAM/SOCHX,He is divorced. He is a homemaker. He does not smoke or drink.
+195,FAM/SOCHX,"The patient is a 72-year-old male with a history of hypertension. She was admitted to the hospital in May 2009 with a history of hypertension and on June 8, 2009 she had bad abdominal pain, diarrhea and cramps. The patient was admitted to the hospital in May 2009 with a history of hypertension and on June 8, 2009 she had bad abdominal pain, diarrhea and cramps. The patient had a CT of her abdomen and they thought she might have C Diff. Flagyl and Levaquin. They started IV Reglan"
+196,FAM/SOCHX,No soreness in the back of the throat.
+197,FAM/SOCHX,"The patient is sitting up in the bed. She has been walking around without any difficulty. She has remained, um, NPO, just like she told me. She has no new symptoms since June tenth two thousand nine. She does have tenderness where she made the cut for the surgery. She is happy that she is doing well after the procedure."
+198,FAM/SOCHX,No known major medical conditions.
+199,FAM/SOCHX,The patient has not had his flu or Pneumonia vaccine this year.

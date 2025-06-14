@@ -60,25 +60,22 @@ def _validate(args, df_predictions, task_prefix, task_range):
         sys.exit(1)
 
 
-def test_id_range( args, df_predictions):
-    # Make sure args.id_column is in range expected by task prefix (taskA or taskB)
-    print( df_predictions.columns )
-    id_1 = '%s' %df_predictions.iloc[0][args.id_column]
-    if args.task == 'taskA' and TASKA_PREFIX in id_1:
-        if args.task == 'taskB':
-            print('Your ID prefixes do not match this tasks expected encounter_ids.')
-            sys.exit(1)
+def test_id_range(args, df_predictions):
+    print(df_predictions.columns)
+    id_1 = '%s' % df_predictions.iloc[0][args.id_column]
+
+    if args.task == 'taskA':
         _validate(args, df_predictions, TASKA_PREFIX, TASKA_RANGE)
     elif TASKB_PREFIX in id_1:
         if args.task == 'taskA':
-            print( 'Your ID prefixes do not match this tasks expected encounter_ids.' )
+            print('Your ID prefixes do not match this task’s expected encounter_ids.')
             sys.exit(1)
         if args.task == 'taskB':
             _validate(args, df_predictions, TASKB_PREFIX, TASKB_RANGE)
         if args.task == 'taskC':
             _validate(args, df_predictions, TASKC_PREFIX, TASKC_RANGE)
     else:
-        print(f'Your encounter ID -> {id_1} does not have an identifiable prefix supported by this evaluation' )
+        print(f'Your encounter ID -> {id_1} does not have an identifiable prefix supported by this evaluation')
         sys.exit(1)
 
 
@@ -138,12 +135,12 @@ if __name__ == "__main__" :
         full_df = full_df.merge(df_references.rename({args.note_column: 'reference'}), on=args.id_column)
         full_df = full_df.merge(df_predictions.rename({args.note_column: 'prediction'}), on=args.id_column)
     else:
-        def _conditional_rename(tmp_df, old_col, new_col):
-            if new_col not in tmp_df.columns:
-                tmp_df.rename(columns={old_col: new_col}, inplace=True)
-        _conditional_rename(df_predictions, args.note_column, 'prediction')
-        _conditional_rename(df_references, args.note_column, 'reference')
-        # Only need id and prediction from df_predictions
+        # Rename columns for eval
+        df_predictions.rename(columns={args.note_column: 'prediction'}, inplace=True)
+        df_references.rename(columns={'section_text': 'reference'}, inplace=True)
+        df_references.rename(columns={'ID': args.id_column}, inplace=True)  # 👈 this line fixes it
+
+        # Merge on common column
         full_df = df_references.merge(df_predictions[[args.id_column, 'prediction']], on=args.id_column)
         full_df['dataset'] = 0
 
