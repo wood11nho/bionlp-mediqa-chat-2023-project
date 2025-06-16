@@ -137,8 +137,17 @@ if __name__ == "__main__" :
     else:
         # Rename columns for eval
         df_predictions.rename(columns={args.note_column: 'prediction'}, inplace=True)
-        df_references.rename(columns={'section_text': 'reference'}, inplace=True)
-        df_references.rename(columns={'ID': args.id_column}, inplace=True)  # 👈 this line fixes it
+
+        if args.task == "taskA":
+            df_references.rename(columns={'section_text': 'reference'}, inplace=True)
+            df_references.rename(columns={'ID': args.id_column}, inplace=True)
+
+        elif args.task == "taskB":
+            df_references.rename(columns={'note': 'reference'}, inplace=True)
+
+            # 🔥 Add this line if the real column is lowercase in gold file
+            if 'EncounterID' not in df_references.columns and 'encounter_id' in df_references.columns:
+                df_references.rename(columns={'encounter_id': 'EncounterID'}, inplace=True)
 
         # Merge on common column
         full_df = df_references.merge(df_predictions[[args.id_column, 'prediction']], on=args.id_column)
